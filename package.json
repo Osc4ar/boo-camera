@@ -1,0 +1,11 @@
+{
+  "name": "boo-camera",
+  "version": "1.0.0",
+  "description": "Automation tool to generate meetings from Telegram bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Osc4ar",
+  "license": "ISC"
+}
